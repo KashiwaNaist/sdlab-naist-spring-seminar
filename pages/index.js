@@ -25,6 +25,10 @@ export default function Home() {
            <td>柏 祐太郎</td>
            <td>2025/2/25</td>
          </tr>
+          <tr>
+           <td>堀川 康生</td>
+           <td>2026/2/25</td>
+         </tr>
        </table>      
 </main>
       <Footer />
