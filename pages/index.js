@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>SD Lab Spring Seminar</title>
+        <title>SD Lab CD Demo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -25,22 +25,6 @@ export default function Home() {
            <td>柏 祐太郎</td>
            <td>2025/2/25</td>
          </tr>
-         <tr>
-           <td>大沼奏太</td>
-           <td>2025/2/25</td>
-         </tr>
-        <tr>
-           <td>大嶋 啓暉</td>
-           <td>2025/2/25</td>
-         </tr>
-	 <tr>
-	   <td>豊嶋浩基</td>
-	   <td>2025/2/25</td>
-	 </tr>
-	<tr>
-           <td>堀川 康生</td>
-           <td>2025/2/25</td>
-	 </tr>
        </table>      
 </main>
       <Footer />
